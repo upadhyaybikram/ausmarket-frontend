@@ -61,7 +61,7 @@ export default function OffersPage() {
     <div className={styles.container}>
       <div className={styles.header}>
         <h1>Special Offers</h1>
-        <p>Don't miss out on these amazing deals!</p>
+        <p>Don&apos;t miss out on these amazing deals!</p>
       </div>
 
       <div className={styles.offersGrid}>
