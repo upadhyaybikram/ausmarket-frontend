@@ -72,7 +72,7 @@ export default function OffersPage() {
                 src={offer.image}
                 alt={offer.title}
                 fill
-                style={{ objectFit: 'cover' }}
+                style={{ objectFit: "cover" }}
                 sizes="(max-width: 768px) 100vw, 50vw"
               />
               <div className={styles.discount}>
